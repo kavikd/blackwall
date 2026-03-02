@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Python-3.10+-00FFB3?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Security-Defensive%20Research-00ffff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Architecture-Modular-39ff14?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/blackwall?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/blackwall?style=for-the-badge&color=purple"/>
+  <img src="https://img.shields.io/github/stars/kavikd/blackwall?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/forks/YOUR_kavikd/blackwall?style=for-the-badge&color=purple"/>
 </p>
 
 ---
